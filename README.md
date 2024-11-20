@@ -1,4 +1,4 @@
-# uni_but_fme_VPP
+# OPTIMIZATION METHODS II
 
 ## Objective of the course – aims of the course unit:
 The aim of the course is to inform the students about creations and applications of mathematical methods for optimal control of technological and economic processes e.g. in the automation of mechanical systems, in the management of production in mechanical engineering, in project management and in optimization of information systems, using contemporary tools of computer science.
